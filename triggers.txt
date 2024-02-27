@@ -1,0 +1,7 @@
+1 [49] = flower
+2 [50] = mushroom
+3 [51] = snake
+4 [52] = spider
+5 [53] = fearful face 
+6 [54] = happy face
+7 [55] = neutral face
